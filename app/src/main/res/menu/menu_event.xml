@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/location"
+        android:orderInCategory="100"
+        android:title="@string/location"
+        
+        />
+
+    <item
+        android:id="@+id/time"
+        android:orderInCategory="101"
+        android:title="@string/time"
+        />
+    </menu>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="8dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="8dp"
+    android:minHeight="72dp"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="50dp"
+        android:id="@+id/eventIcon"
+        android:src="@drawable/about_icon_email"
+        android:scaleType="fitCenter"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/eventName"
+        android:textColor="@color/colorPrimaryDark"
+        style="@style/TextAppearance.AppCompat.Body2"
+        android:layout_marginLeft="56dp"
+        android:padding="4dp"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:alpha="0.87"
+        android:text="iApp"
+        android:textSize="16sp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="right">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/eventLocation"
+        android:textColor="@color/colorPrimaryDark"
+        style="@style/TextAppearance.AppCompat.Body1"
+        android:text="OAT"
+        android:alpha="0.87"
+        android:textSize="14sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/eventTime"
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:text="12:00pm - 2:00pm"
+            android:textColor="@color/colorPrimaryDark"
+            android:alpha="0.87"
+            android:textSize="14sp"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/eventDate"
+            style="@style/TextAppearance.AppCompat.Body1"
+            android:text="27-10-17"
+            android:textColor="@color/colorPrimaryDark"
+            android:alpha="0.87"
+            android:textSize="14sp"
+            android:visibility="gone" />
+    </LinearLayout>
+
+</LinearLayout>
+

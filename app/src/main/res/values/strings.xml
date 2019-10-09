@@ -1,0 +1,319 @@
+<resources>
+    <string name="app_name">"i.Fest '19"</string>
+    <string name="action_settings">Settings</string>
+    <string name="location">Location</string>
+    <string name="time">Time</string>
+    <string name="backdrop_title">LOVE MUSICS</string>
+    <string name="backdrop_subtitle">This season top 20 music</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="show_pwd">Show Password</string>
+    <string name="hide_pwd">Hide Password</string>
+    <string name="AboutDa">Dhirubhai Ambani Institute Of Information And Communication Technology, promoted by Dhirubhai Ambani foundation and the Anil Dhirubhai Ambani Group, was established with a mission to provide such an enriching environment to enable young minds to widen their horizons in field of ICT. Set in the backdrop of the lush greenery of Gandhinagar, DA-IICT has and will continue to act in the field of ICT while being at complete harmony with the nature, society and humanity.</string>
+    <string name="AboutIEEE">The IEEE Student Branch at DA-IICT endeavors to promote awareness among the students on the opportunities that exist in the field of electronics and electrical engineering. Our objective is to bridge the gap between industry and the students studying in the technology-related fields, while promoting and providing an intellectually stimulating university related environment for the student community. IEEE Student Branch DA-IICT aims to provide an interactive platform for students to develop professional and technical abilities. Since the inception, it is successful in organizing various events with well - defined objectives.</string>
+    <string name="Aboutifest">i.Fest is an idea conceptualized by IEEE Student Branch at DA-IICT. Our main aim is to bring the budding engineers from all over India to a common platform so that they can share their knowledge with their fellow imaginers. The next big thing for engineers is to pull out graphics from computer or television screen and integrate them into real world environment. With these innovative engineers coming up, it will become more pervasive and ubiquitous.</string>
+    <string name="disclaimer">In any case of discrepencies the decision of the i.Fest committee is final regarding issues of Prize Money, Venue, Time.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- inaugral -->
+    <string name="InauguralCeremonyTitle">Inaugural Ceremony</string>
+    <string name="InauguralCeremonyQuote">""</string>
+    <string name="InauguralCeremonyDescription">"The Inaugural Ceremony will see the presence of esteemed speakers. It will begin with the lighting of the lamp, followed by the speakers sharing their views and giving us an insight into current new technologies and its future scopes "</string>
+    <string name="InauguralCeremonyRules">""</string>
+    <string name="InauguralCeremonyContactName1">"Abhi Ratnman"</string>
+    <string name="InauguralCeremonyContactPhone1">"+91 7405892855"</string>
+    <string name="InauguralCeremonyContactName2">""</string>
+    <string name="InauguralCeremonyContactPhone2">""</string>
+    <string name="InauguralCeremonySchedule">Date​​:​ ​11th October, 2019\nTime​:​ ​6:00 ​P.M- 7:00 P.M\nVenue​:​ OAT</string>
+
+    <!-- Closing -->
+    <string name="ClosingCeremonyTitle">Closing Ceremony</string>
+    <string name="ClosingCeremonyDescription">"Prizes and certificates will be distributed to all winners of various events. i.Fest'19 will be declared close."</string>
+    <string name="ClosingCeremonyQuote">""</string>
+    <string name="ClosingCeremonyRules">""</string>
+    <string name="ClosingCeremonyContactName1">"Jainil Pariya"</string>
+    <string name="ClosingCeremonyContactPhone1">"+91 9558021183"</string>
+    <string name="ClosingCeremonyContactName2">""</string>
+    <string name="ClosingCeremonyContactPhone2">""</string>
+    <string name="ClosingCeremonySchedule">Date​​:​ ​13th October, 2019\nTime​:​ ​9:00 ​P.M\nVenue​:​ LT-3</string>
+
+
+    <!-- BugBounty -->
+    <string name="i.DesignTitle">Bug Bounty</string>
+    <string name="i.DesignQuote">“Knowing is not enough;we must apply. Willing is not enough;we must do.” - Johann Wolfgang von Goethe </string>
+    <string name="i.DesignDescription"><![CDATA[DA-CTF was started to generate awareness and interest in cyber security in the student community.<br>Taste the first blood of information security by capture the flag using your fluid knowledge of computer science and applying it.<br>Challenges include use of cryptography, steganography, binary analysis, reverse engineering, coding knowledge etc.]]></string>
+    <string name="i.DesignRules"><![CDATA[<ul><li>Reach the venue 30 minutes prior to the start of the event. Latecomers would lose their time in the game.</li><li>For on the spot registration reach the venue at least 40 minutes prior to the event.</li><li>No collaboration between different teams and flags sharing is not allowed.</li><li>Participants can register through DA-CTF platform.</li><li>Also it is a team event so the participants have to register their team name and members.</li><li>Teams size should be min 2 and max 5 members.</li><li>There will be 3 levels easy, medium and hard.Each challenge has one flag.</li><li>There will be different points for level of challenges.</li><li>Flag should be written anywhere in code or decrypted text. In the form of FLAG{captured}.</li></ul><br> Eg:- suppose in text file you got some encryption, then you have to submit the decrypted text FLAG{hacked}<br><br><ul><li>There will be a live dashboard which will display which team has captured the flag in least time.</li><li>Participants are not allowed to publish solutions during the course of the event(blog, GitHub, YouTube etc.)</li><li>If a team captured all the flags in less time then that team would straight away win and if it is a tie then team with less time is given priority.</li><li>Any team found discussing with other teams would be straight away disqualified.</li><li>You can use your own system.</li><li>Should not carry any attacks on the ctf infrastructure.</li><li>Bring pen and papers along with yourself as you might need them during the event.</li><li>Any participant violating the above rules will be disqualified from the contest.</li><li>You will be eligible for the prize if you have participated in the event in DAIICT lab.</li></ul>]]></string>
+    <string name="i.DesignContactName1">Nisarg Patel</string>
+    <string name="i.DesignContactPhone1">+91 8511181899</string>
+    <string name="i.DesignContactName2">Tikam Alma</string>
+    <string name="i.DesignContactPhone2">+91 8154940247</string>
+    <string name="i.DesignSchedule">● Date : 12th October 2019\n● Time : 01:00 P.M. \n●Venue : Lab 102</string>
+
+    <!-- iRide -->
+    <string name="i.RideTitle">i.Ride</string>
+    <string name="i.RideQuote">""</string>
+    <string name="i.RideDescription"><![CDATA[ We all know to ride a bicycle fast, but the real challenge lies in riding it slow.]]></string>
+    <string name="i.RideRules"><![CDATA[There will be three rounds in total.<ul><li>In first round there will be a competition between five participants and slowest two amongst them will go to next rounds.</li><li>This round will also be like the first round,just that the participants will not be allowed to use brakes.</li><li>In this round participants will not be allowed to sit on the seat. But they are allowed to use the brakes.</li></ul><p>Rules :</p><ul><li>No touching the floor. Once you have both feet on the pedals you must not take them off</li><li>Bikes must travel forward only.</li><li>No leaving your lane.</li><li>No touching other riders</li><li>Decisions made by coordinators are final</li></ul>]]></string>
+    <string name="i.RideContactName1">Smit Kumbhani</string>
+    <string name="i.RideContactPhone1">+91 9978652320</string>
+    <string name="i.RideContactName2">Meet Salvi</string>
+    <string name="i.RideContactPhone2">+91 9824564461</string>
+    <string name="i.RideSchedule">●Date : 13th October 2019\n●Time : 04:30 P.M\n●Venue : Near Cafeteria</string>
+
+    <!-- iRubble -->
+    <string name="i.RubbleTitle">i.Rubble</string>
+    <string name="i.RubbleQuote">""</string>
+    <string name="i.RubbleDescription"><![CDATA[Creativity is making marvelous out of the discarded. So come, join your hands and use your imagination to make the "BEST" out of the "WASTE" !!!!!]]></string>
+    <string name="i.RubbleRules"><![CDATA[<b>Structure</b><ul><li>Open to 30 teams on first come first basis.</li><li>Each team can have a maximum of 3 members.</li><li>Material: First you will be given 100 points through that 100 points you have to buy material.And you have to make useful product according to given topic .</li><li>Your product will be judged on the basis of design, creativity and topic relevance.</li><li>The rules can be changed by the coordinators at any time without any prior notice.</li></ul>]]></string>
+    <string name="i.RubbleContactName1">Dhanvi Shah</string>
+    <string name="i.RubbleContactPhone1">+91 8980154381</string>
+    <string name="i.RubbleContactName2">Mital Kamani</string>
+    <string name="i.RubbleContactPhone2">+91 7016927375</string>
+    <string name="i.RubbleSchedule">Date : 13th October 2019\nTime : 04:00 P.M\nVenue : OAT</string>
+
+
+    <!-- iOHunt -->
+    <string name="i.OHuntTitle">i.OHunt</string>
+    <string name="i.OHuntQuote">"The instant they say something you don't expect or already know, you should drop into detective mode. -Emmett Shear"</string>
+    <string name="i.OHuntDescription"><![CDATA[Do you consider yourself as Hercule Poirot or Inspector Clouseau? Then awake the Sherlock within you by Hunting through the jungles of Google leading to the treasure but remember that the world is full of obvious things which nobody by any chance ever observes.]]></string>
+    <string name="i.OHuntRules"><![CDATA[Rules :<ul><li>Reach the venue 15 minutes prior to the start of the event. Latecomers would lose their time in the game.</li><li>For on spot registration reach the venue at least 30 minutes prior to the event.</li><li>There will be 15 questions and 45 minutes of playtime.</li><li>Each question has one answer, and the correct answer would lead you to the next question.</li><li>Answer should be written at the end of the URL as &lt;question_no.&gt;/&lt;your_answer&gt;. Answer is case insensitive and answer with more than one word should be jointly written.<br>Eg:- suppose your answer to question no. 3 is harry potter.<br>Then you should use https://iohunt.com/3/harrypotter to go to next question.</li><li>If you are stuck in a particular question then you may use penalties and bypass that question but remember that no. of questions will increase by 1 for each penalties. That is you can at max attempt 15 questions correctly.<br>Eg:- using one penalties will increase total no. of questions to 16, using two penalties leads 17 questions like that..</li><li>You can use at most 3 penalties. Use the penalties wisely because at the end of the game penalties would be used to break tie.</li><li>There would be three rankings first, second and third positions.</li><li>If a team completes the game in less than 45 minutes that team would straight away win and if it is a tie then team with less time is given priority. If time exceeds 45 minutes then the team attempting the maximum no. of questions would win the game. If two teams have attempted same no. of questions then the team which has used less no. of penalties would win.</li><li>Any team found discussing with other teams would be straight away disqualified.</li><li>You can use Google only on the pc allotted, any teams found googling on smartphones would be disqualified.</li></ul>]]></string>
+    <string name="i.OHuntContactName1">Nishit Jagetia</string>
+    <string name="i.OHuntContactPhone1">+91 6354692318</string>
+    <string name="i.OHuntContactName2">Hemant Jain</string>
+    <string name="i.OHuntContactPhone2">+91 9650490582</string>
+    <string name="i.OHuntSchedule">Date : 12th September 2019\nTime : 07:00 P.M.</string>
+
+    <!-- iRelay -->
+    <string name="i.RelayTitle">i.Relay</string>
+    <string name="i.RelayQuote">""</string>
+    <string name="i.RelayDescription"><![CDATA[Problem solving is an art we perform everyday; be it standing in a queue, managing a bookshelf or finding shortest path to a destination. This is an art most people are familiar with if not all. The new thing is just to codeit in a language. So fold your sleeves and Grab this opportunity to the fullest of taking part in one of the most exciting coding event, iRelay. A handful of questions and 3 participants, and prizes; where else would you get a chance like this? It doesn't matter whether you are a skilled coder or a newbie. Just give it a try, you may learn something new; who knows!<br><br> The event as explained is a team event. Team will be of 3 members where each member will be given a chance to code for a specific amount of time and his next teammate will have to continue the work, just like it happens in relay races.]]></string>
+    <string name="i.RelayRules"><![CDATA[<ul><li> As stated in the description, this is a team event where each team should be of 3 members.</li><li>Contest is open for all the participants of i.Fest 2019.</li><li>There will be 2 Rounds in the event, the first will be a Qualification Round from which top 15 teams will be selected for the final Rounds. Both Round will take place on the same day.</li><li>First Year students will have a separate contest in which they will compete with each other only and they will have separate prizes.</li><li>In each round, initially the first member of the team will be allowed to code. Then after some time he will be asked to leave the lab building and the second member will be allowed to code.(But the first one and the third one will not be allowed to meet) and after the second member the last member will be allowed to code.</li><li>The questions will not be given to all the members initially but they will only know in his/her respective turn.</li><li>All the members of the team will be given an equal amount of time (⅓ of the Total round time).</li><li>Both the rounds will be of 2 hours (subject to change) 40 min for each member.</li><li>Both the rounds will have 4 questions each.</li><li>Top 3 Teams in the final rounds will be given Prizes(For first year top 2 teams).</li></ul>]]></string>
+    <string name="i.RelayContactName1">Dhruvil</string>
+    <string name="i.RelayContactPhone1">+91 9265173726</string>
+    <string name="i.RelayContactName2">Pranav</string>
+    <string name="i.RelayContactPhone2">+91 8849425051</string>
+    <string name="i.RelaySchedule">Date : 12th October 2019\nTime : 01:30 P.M\nVenue : Lab Building \n</string>
+
+    <!-- i.Biz -->
+    <string name="i.BizTitle">i.Biz</string>
+    <string name="i.BizQuote">""</string>
+    <string name="i.BizDescription"><![CDATA[i.Biz is a dream platform for all those young and potential entrepreneurs out there, wherein they are given a lucrative opportunity to present their innovative business model!! In addition, the teams would be given the chance to pitch their respective ideas in front of the investors to fetch funds.Present the idea and crack the deal.]]></string>
+    <string name="i.BizRules"><![CDATA[We will be collecting responses of the business models of all the teams. If this number is more than 10 , will be short listing the top 10 of those. Then each team would have about 20 - 25 minutes to present their model in front of the judges. Depending on the results, the top 3 would be rewarded. The event would last for 2-3 hrs.]]></string>
+    <string name="i.BizContactName1">Deep Godhani</string>
+    <string name="i.BizContactPhone1">+91 8830933597</string>
+    <string name="i.BizContactName2">Manas Kaul</string>
+    <string name="i.BizContactPhone2">+91 7984907033</string>
+    <string name="i.BizSchedule">Date : 13th October 2019\nTime : 01:00 PM\nVenue : CEP Conference Room</string>
+
+    <!-- i.Maze -->
+    <string name="i.MazeTitle">i.Maze</string>
+    <string name="i.MazeQuote">""</string>
+    <string name="i.MazeDescription"><![CDATA["Where there's a maze, there's a way!". For all the puzzlers who think they have puzzle solving instincts and can outthink anyone with their skills, they've come to the right destination! Amaze your way out to i.Maze! Come, become "The Maze Runner" and show off your thinking caps. Let's see who becomes the Harry of the TriWizard tournament!]]></string>
+    <string name="i.MazeRules"><![CDATA[<b>Round 1 : Chain Round</b><ul><li>A simple maze will be given initially which needs to be solved in order to reach the starting question of the chain.</li><li>The chain will then follow, i.e. every answer will take you to the next question.</li><li>The question paper will also contain a few dummy questions which upon solving will cost half a point each.</li><li>Time: 60 minutes</li></ul><b>Round 2 : The Maze Round</b><ul><li>Several mazes would be given to each team.</li><li>Each maze will have certain checkpoints which will contain hints that will point to a certain thing/place/person. The contestants need to identify those with the help of hints. </li><li>The contestant with the maximum number of correctly solved mazes will win.</li></ul><b>Round 3 : Rapid Fire</b><ul><li>This will be a rapid fire round.</li><li>The finalists will be given puzzles and whoever solves a particular puzzle correctly in the minimum amount of time gets points.</li><li>Negative points will be given for incorrect answers.</li><li>The contestant with the maximum points wins. </li></ul><b>Rules &amp; Regulation :</b><ul><li>Use of any kind of electronic devices like calculators/mobile phones etc. during the event is <b>NOT</b> allowed.</li><li>Any malpractice will result in termination from the event.</li><li>In any scenario, decision of the event coordinators will be final.</li></ul>]]></string>
+    <string name="i.MazeContactName1">Mahi Patel</string>
+    <string name="i.MazeContactPhone1">+91 7016806178</string>
+    <string name="i.MazeContactName2">Shristi Kalra</string>
+    <string name="i.MazeContactPhone2">+91 8218647106</string>
+    <string name="i.MazeSchedule">"<u>"Phase-1"</u>"\nDate : 12th October 2019\nTime : 12:00 P.M.\nVenue : CEP 110\n\n"<u>"Phase-2 and 3"</u>"\nDate : 13th October 2019\nTime : 09:00 A.M.\nVenue : CEP 110</string>
+
+    <!-- i.Bot -->
+    <string name="i.BotTitle">i.Bot</string>
+    <string name="i.BotQuote">""</string>
+    <string name="i.BotDescription"><![CDATA[Design a manually controlled or wireless robot that has the capacity to cover maximum distance in shortest time. But here’s the twist, the track isn’t going to be straightforward. The path may consist of unevenness, bridges, tunnel and a lot challenging obstacles. Remember, just maximising the RPM will not help. You got to be a little smarter. And, get ready for an electrifying game at the end. So, you think your bot can be victorious? Then set in on track and have the glory!]]></string>
+    <string name="i.BotRules"><![CDATA[<strong>ROBOT SPECIFICATIONS</strong><ul><li> Bot can be wired or wireless.</li><li> Maximum size of bot can be 25cm x 25cm x 25cm</li><li> Battery should be present on board</li><li> Maximum 24 volt battery and 500 rpm driving motors</li><li> Sufficient wire length (for wired bots) so that it remains slack during the entire run</li></ul><p><strong>RULES AND REGULATIONS</strong></p><ul><li> Teams have to bring their bots in fully working condition</li><li> Maximum team size can be 5. People from different colleges can be in a team. Each member needs to carry his/her college identitycard</li><li> Ready made toy cars are not allowed</li><li>No modifications can be made once the bot is put on track</li><li> Only one member can control the bot on track</li><li> Scoring is based purely on time. In case of disputes, decision lies in the hands of coordinators</li></ul><p><strong>PHASES OF EVENTS</strong></p><p>The event is divided in two phases :</p><p><b>Phase 1 :</b> Robo Race - Your target is to cover the entire track in the least possible time. Let your bot go on an adventurous ride on our exciting track.</p><ul><li> Track width will be 35cms.</li><li> The track surface may have unevenness and turns.</li><li> Maximum 3 hand touches will be allowed, with 5 seconds penalty for each hand touch</li><li> 10 seconds penalty will be added for robot leaving the track</li><li> If a bot cannot overcome some obstacles, the team can skip it with penalty added depending on the obstacle.</li><li> If bot stops midway without any obstacle, the team can start all over again with added penalty.</li></ul><p><b>Phase 2 :</b> Pool - So, after crossing all the hurdles, is your robot ready to play? Welcome to pool! Your goal is to push the ball into the hole and score maximum. Get, set, Go!</p><ul><li>Every hole has a score related to it. Harder the hole to reach, more the score it carries</li><li> Bots of 3 teams will play at a time for 2 minutes and scores will be noted</li><li> A time t=score/100 will be removed from your previous time, so the overall result depends on your performance in both phases</li></ul>]]></string>
+    <string name="i.BotContactName1">Akash</string>
+    <string name="i.BotContactPhone1">+91 9695060101</string>
+    <string name="i.BotContactName2">Aditya</string>
+    <string name="i.BotContactPhone2">+91 6354955814</string>
+    <string name="i.BotSchedule">●Date : 12th October 2019\n● Time : 09:00 A.M.\n● Venue : Cafeteria</string>
+
+
+    <!-- i.App -->
+    <string name="i.AppTitle">i.App</string>
+    <string name="i.AppQuote">""</string>
+    <string name="i.AppDescription"><![CDATA[Have you ever wanted to make an Android app which has the capability to touch millions of lives? i.app is here to transform your aspirations into an omnipresent reality. We are here to provide you with a platform to develop and showcase your app against a hoard of competitors from all over Gujarat to compete in this highly coveted competition. The app is to be developed on a pre-decided theme and must have a tinge of innovation in it. So, what are you waiting for? Put your Grey cells to work and start developing already.]]></string>
+    <string name="i.AppRules"><![CDATA[i.App is a competition where you will need to develop android apps, based on the themes which will be provided to the registered teams 10 days prior to the main event. <br><br> The competition will be of different phases:<ul><li>Screening for final participants</li><li>App Submission</li><li>Screening for finalists</li><li>Final Presentation</li></ul>Rules :<ul><li>There will be 4 participants in a team. Teams having less number of participants will be disqualified</li><li>The app should not be already present on the play store nor should there be a similar project on Github. In the event that any of the above things happen the participants will be immediately disqualified.</li><li>All the participants will be provided with a theme 7 days before the final submission date.</li><li>All participants must submit the app in apk format along with a readme document and its presentation 24 hrs before the event starts.</li><li>The participants are allowed to use Java,Kotlin,Dart to develop their Android apps.No other language is allowed.</li><li>The app will be run on an emulator provided by the event co- ordinators. In case of a discrepancy the teams are allowed to showcase their app on an Android device after informing the event co-ordinators 48 hrs prior to the event and seeking their approval.</li><li>The decision of the i.fest core committee and the judges shall be final and can’t be argued upon.</li></ul><br><br> For Team Registration, fill <a href="https://docs.google.com/forms/d/e/1FAIpQLSc_YsW8VErvkArfc5SGBBW1iSGO3jGVJqKvcursQYAc19zTXQ/viewform?usp=sf_link">this form</a>]]></string>
+    <string name="i.AppContactName1">Arka</string>
+    <string name="i.AppContactPhone1">+91 9974067107</string>
+    <string name="i.AppContactName2">Vatsal</string>
+    <string name="i.AppContactPhone2">+91 9586801425</string>
+    <string name="i.AppSchedule">Date: 13th October 2019\nTime: 10:00 A.M \nVenue: CEP Conference room\n</string>
+
+
+    <!-- i.Crypt -->
+    <string name="i.CryptTitle">i.Crypt</string>
+    <string name="i.CryptQuote">""</string>
+    <string name="i.CryptDescription"><![CDATA[<strong>Unravel the truth beneath</strong><br><br> If you feel a gust inside brainstorming with tricky and interesting problems then this event is surely for you. Participate to experience some interesting and mind boggling questions and unlock the secrets beneath them!!]]></string>
+    <string name="i.CryptRules"><![CDATA[Rules :<ul><li>There will be 2 rounds for the event. Also there will be a Spot round that will be conducted along with Round 2.</li><li>For Round 1 there will be 30 questions and each right answer will fetch 1 mark. There will be negative marking for Round 1. Time limit for Round 1 will be 60 minutes.</li><li>30% of the total participants will be selected for Round 2.</li><li>For Round 2 there will be 20 questions to be solved within time limit of 45 minutes. Each correct answer will fetch a participant 2 marks and for each incorrect answer 1/2 mark will be deducted from total score.</li><li>Spot Round is a special round where participants who did not qualify for Round 2 or did not appear for Round 1 can try their luck to win exciting goodies. There will be 10 questions in Spot round and time limit will be 15 minutes. Top three performers will get the chance to win goodies. In case of a tie maximum of 5 participants will be distributed goodies and if there are more than five participants for tie then top five with fastest solving time will be given the goodies.</li>li>In case of any discrepancy the decision of the coordinators of the event will be final.</li><li>The coordinators hold the right to disqualify a participant if he/she is caught copying or cheating by any means of electronic media or physical. It is advisable not to bring any electronic gadgets to the competition.</li></ul>]]></string>
+    <string name="i.CryptContactName1">Karan Bhatia</string>
+    <string name="i.CryptContactPhone1">+91 8200501205</string>
+    <string name="i.CryptContactName2">Hemang Shrimali</string>
+    <string name="i.CryptContactPhone2">+91 9116428703</string>
+    <string name="i.CryptSchedule">Date: 13th October 2019\nTime: 05:00 P.M \nVenue: CEP 110 and CEP 108</string>
+
+
+    <!-- i.Database -->
+    <string name="i.DatabaseTitle">i.Database</string>
+    <string name="i.DatabaseQuote">""</string>
+    <string name="i.DatabaseDescription"><![CDATA[Data is ubiquitous. From a small watch to big satellites, today, every smart device generates data for storing which an efficient database is inevitable. Here is your chance to model real-life scenarios through database design and win exciting prizes. From the trivialist relationships to teasing dependencies, design your way through and glory will be yours.]]></string>
+    <string name="i.DatabaseRules"><![CDATA[Structure :<ul><li>The event comprises of two rounds: Prelims and Finals.</li><li> Prelims Round will be a pen-and-paper round based on Database and Query questions.</li><li> Finals round will be a practical round where one has to design a Database according to the given problem statement.</li><li>In any case of discrepancy, the decision of the Judges and the co-ordinators stands final.</li></ul>]]></string>
+    <string name="i.DatabaseContactName1">Sri Poojitha Etta</string>
+    <string name="i.DatabaseContactPhone1">+91 7203845345</string>
+    <string name="i.DatabaseContactName2">Madhumitha Etta</string>
+    <string name="i.DatabaseContactPhone2">+91 7203845349</string>
+    <string name="i.DatabaseSchedule">Date: 6th October 2018\nTime: 03:00 P.M\nVenue:CEP 110 and CEP 108</string>
+
+
+    <!-- i.Quiz -->
+    <string name="i.QuizTitle">i.Quiz</string>
+    <string name="i.QuizQuote">""</string>
+    <string name="i.QuizDescription"><![CDATA[i.Quiz is back again to tickle those grey cells in your head. It will be a delicacy to see how creatively you patch your facts as you tackle the diverse question set presented to you. A Sci-Tech quiz, such as this one, would typically involve questions not limited to fields of science and technology but also to closely related fields such as Sci-Fi. Any and every quizzing enthusiast is welcome to flaunt their knowledge and put their thinking skills to test while working their way through the quiz. Attend for a dose of intense quizzing and lots of fun.<br><br>Needless to say, there are prizes at stake!]]></string>
+    <string name="i.QuizRules"><![CDATA[To Be Announced]]></string>
+    <string name="i.QuizContactName1">Siddharth Pogul</string>
+    <string name="i.QuizContactPhone1">+91 7405997292</string>
+    <string name="i.QuizContactName2">Jay Dave</string>
+    <string name="i.QuizContactPhone2">+91 9574468695</string>
+    <string name="i.QuizSchedule">Date: 12th October 2019\nTime : 03:00 P.M\nVenue: CEP 106</string>
+
+
+    <!-- i.Capture -->
+    <string name="i.CaptureTitle">i.Capture</string>
+    <string name="i.CaptureQuote">""</string>
+    <string name="i.CaptureDescription"><![CDATA[i.Fest '19 presents you i.Capture 2.0, the same old event in a new avatar. What's new you ask? Online prefest challenges, themed main event, storytelling through a series of moments captured through your lenses and many more we say.<br><br> The actual contest will be a theme based. We will release the themes well prior to the main event. The photo(s) will have to tell a story on the theme. A person can at max send an entry of 3 photos telling a story related to the theme. Tell us a story through your photo(s).<br><br> The online photohunt will show us how much the social biz likes your perspective from a lens view.<br><br> There are big prizes at stake. Trust us when we say the prizes are worth our words. Registrations are beginning soon.<br><br> "What's a picture which does not tell a story?"]]></string>
+    <string name="i.CaptureRules"><![CDATA[For the actual event :-<ul><li>Mail us your photo(s) along with a caption for your photo-story.</li><li>You can submit a maximum of 3 photos for your story and they will be considered as one single entry.</li><li>Voting both online and on the grounds for the event will decide the winner.</li><li>There will be three winners for the event and will recieve their prize through Paytm on the phone number provided after verification.</li></ul><p>We will give you a timeline for each of the chapters of the online photohunt series. The necessities for the participation will be :-</p><ul><li>Register for the online event by paying ₹10 through Paytm if you have not registered for i.fest and if you have done so,it is free.</li><li>Follow our official page.</li><li>Send us your picture through mail and post it on your social media account tagging us.We will post them tagging your social media account on our official page.</li><li>Tag a minimum of 5 friends on our post in the comments section.</li><li>There will be 2 winners based on the number of likes.</li><li>One photo entry per person.</li></ul><p>Other rules :-</p><ul><li>Contrast/brightness editing is accepted.</li><li>No Photoshop is allowed.</li><li>You have to send the edited and the original picture in the mail during submission.</li></ul><p><b>Note :</b> If you use any means of plagiarism then you shall be disqualified. It is an offence to the original photographer.</p>]]></string>
+    <string name="i.CaptureContactName1">Pinank </string>
+    <string name="i.CaptureContactPhone1">+91 6354130997</string>
+    <string name="i.CaptureContactName2">Pratik</string>
+    <string name="i.CaptureContactPhone2">+91 9662042244</string>
+    <string name="i.CaptureSchedule">Phase 1\n● Date : 12th October 2019\n● Time: 10:00 A.M onwards\nPhase 2\n● Date : 13th October 2019\n● Time: 10:00 A.M onwards\n● Venue : Cafe</string>
+
+
+    <!-- i.Clash -->
+    <string name="i.ClashTitle">i.Clash</string>
+    <string name="i.ClashQuote">""</string>
+    <string name="i.ClashDescription"><![CDATA[Hey folks if you have the GUTS and BUTS then take a deep breadth be ready for one of the biggest and heart-thrusting event of i.Fest 2k19 - 'i.Clash'<br><br> Here we have the prize worth 12k<br><br> If you are expert in Strategy making and using using your skill set of awareness of mind like "Tom Cruise" then we have clash Royle for you. <br><br> If you are the "Barney Ross" of your team and want to show your mercenaries skill set and reflexes the we have CS.Go<br><br> If you are street racer and you know how to trick rivals then we have NFS most wanted for you<br><br> If you love football and you are really good at playing virtually then we have FIFA 19 for you guys<br><br> And finally the most trending and most loved game by gammers,the game which gives you goosebumps and and threat of loosing anytime with a single mistake none other than "PUBG"<br><br> In PUBG we have both solo and squad matches<br><br> So, guys get ready to give your best performance and get ready to win 12k]]></string>
+    <string name="i.ClashRules"><![CDATA[<b>1) FIFA</b><ul><li>Final Rounds of Fifa '18 will be started from 12th October 2019.</li><li>The players will be given an option to use either keyboard or controller. Controllers and Keyboards will be provided but it will be better if the players bring their own controllers, so that they may feel on home turf.</li><li>Each half will be of 5 minutes,if match can not be decided in 90 minutes,then there will be extra time and if after extra time also the result is draw then match will be decided on penalties.</li></ul><p><b>2) PUBG (Mobile)</b></p><ul><li>Event will start from 11th October.</li><li>All the rounds we be conducted in LT.</li><li>The distribution of participants into rooms will be on first serve basis.</li><li>There will be maximum 20 squads in 1 room.</li><li>Squads and solo with highest kills will also qualify for higher rounds.</li><li>The final round of squad will consist of 3matches (erangel-sanhok-erangel)</li><li>The number of qualifying squads will be selected on the basis of participation.</li><li>I-pads/Emulators wont be allowed!</li></ul><p><b>3) Clash Royale (CR)</b></p><ul><li>Final Rounds of Clash Royale will be started from 11th October 2019.</li><li>There Will Be A Draft Match Tournament Created So That To Balance The Level Of The Players And Every Player Gets Equal Opportunity on the basis of there Skills.</li><li>The Time Duration Of The Draft Match Tournament Is 2 Hours, So All The Players Who Have Registered Have To Join The Tournament Room In Time.</li><li>Players Joined In The Tournament Room Will Have There Matches Against Random Player Who Have Registered.</li><li>There Will Be Only 5 Chances,So If You Lose 5 Matches Your Number Of Wins Will Be Compared At The End, The Top 15 -20 Players Who Are In The Tournament Will Be Qualified For The Final Rounds.</li><li>The Top 3 Players Will be awarded</li><li>{Network Connectivity:- Players Are Requested To Play Clash Royale On There Own Mobile Network Because If You Are Using The College Wifi The Game Gets Crashed ,So You Might Lose your chance}</li></ul><p><b>4) Counter Strike – Global Offensive</b></p><ul><li>Rounds will commence from 10th October.</li><li>The team size is 5 - (5 vs. 5 matches).</li><li>All the rounds are Competitive only.</li><li>Maps : Dust , Office</li><li>All of the players who need their own equipment (headphones, gaming mouse, etc) are allowed to do so. However, speakers are not allowed.</li></ul><p><b>5) Need for Speed – Most Wanted</b></p><ul><li>Most Wanted rounds start from 10th October</li><li>Best game times for a selected track will be considered for the 1st round.</li><li>For subsequent rounds we may consider best of 3 races. However, it is subject to change depending on number of registrations.</li><li>Contestants will be allowed to choose any car they desire.</li><li>The races will not have any traffic and crash detection will be off!</li><li>Keyboards will be provided by us but you have to bring your own</li><li>Headphones, if you need them. No speakers are allowed.</li></ul><p><b>6) Getting Over It</b></p><ul>This is a fun event , The registered players will be called when the event is going to start and the player who will be leading at the end of fixed time will be awarded.</ul>]]></string>
+    <string name="i.ClashContactName1">Mahiraj</string>
+    <string name="i.ClashContactPhone1">+91 9173902289</string>
+    <string name="i.ClashContactName2">Rushi</string>
+    <string name="i.ClashContactPhone2">+91 8000036060</string>
+    <string name="i.ClashSchedule">Phase 1 - \n● Time : 09:00 P.M\n● Date : 11th October 2019\nPhase 2 - \n● Time : 09:00 A.M\n● Date : 12th October 2018\nPhase 3 - \n● Time : 09:00 A.M\n● Date : 13th October 2018\n● Venue : Lab 002 and Lab 007 </string>
+
+
+    <!-- i.Cube -->
+    <string name="i.CubeTitle">i.Cube</string>
+    <string name="i.CubeQuote">“It always seems impossible until it’s done”</string>
+    <string name="i.CubeDescription"><![CDATA[This is for cubing enthusiasts, those into solving the world’s favourite challenge, the Rubik’s cube. Show us how your fingers move mechanically when you get a cube.<br><br> The 4 events inside i.Cube event are:<ul><li>2x2 - Take the pocket cube out of your pockets and show us how your hands handle it.</li><li>3x3 - Solving the 3 x 3 might not be a tough task but solving it Faster is not a piece of cake.</li><li>3x3 One Handed - Solving the puzzle using both of your hands is old-school, so why not do it single- handedly.</li><li>Cube Relay (Teams of 3) - Every team member is supposed to solve the 3 x 3 puzzle one after the other. The cumulative time of all the solves will result in either knockout or a win for the team.</li></ul>]]></string>
+    <string name="i.CubeRules"><![CDATA[<ul><li> All the events will be conducted following the WCA rules and regulations. (<a href="https://www.worldcubeassociation.org/regulations/">https://www.worldcubeassociation.org/regulations/</a>)</li><li>Participants have to bring their own cubes.</li><li>On Spot Registrations available only for 3 x 3(Till 1 PM) and Cube Relay (Till 2:30 PM).No requests for registration after the deadline will be entertained.</li><li>Cube Relay is a knockout event.</li></ul><br><br> For Registration, fill <a href="https://docs.google.com/forms/d/e/1FAIpQLSexuFSO7HtMOSZTehbMXKdmsaADC-IurxD1nbb9LAWETN1ptw/viewform">this form</a>]]></string>
+    <string name="i.CubeContactName1">Vraj</string>
+    <string name="i.CubeContactPhone1">+91 9909525043</string>
+    <string name="i.CubeContactName2">Shantanu</string>
+    <string name="i.CubeContactPhone2">9099654327</string>
+    <string name="i.CubeSchedule">●Date : 12th October 2019\n●Time : 10:00 A.M\n● Venue: LT-3</string>
+
+
+    <!-- i.Decipher -->
+    <string name="i.DecipherTitle">i.Decipher</string>
+    <string name="i.DecipherQuote">""</string>
+    <string name="i.DecipherDescription"><![CDATA[There are twenty questions and for each question, you are given images and you need to give the most appropriate answer by connecting the clues. Provided images are related to each other and you need to find out how they are connected to get the answer. In some questions you are given some hints in description or relevant information to find the solution of the particular question.]]></string>
+    <string name="i.DecipherRules"><![CDATA[Rules :<ul><li> The event duration is 1 hour and 30 minutes. (No extra time will be given under any circumstances)</li><li>There will be a total of 20 questions.</li><li>There will be no negative marking for wrong answers. </li><li>TOnce a question is submitted/skipped, participant can’t revisit or change the answer of that question.</li><li>The team answering the maximum questions correctly will be the winner.</li><li>n case of a tie, the team answering the questions in minimum time will be considered as the winner.</li><li>The Team must be present at the venue. You are not allowed to register from outside the venue of the event.</li><li>Mobiles/Smart phones or any other communication devices are not allowed during the event. Using mobile/smart phones will lead to disqualification. </li><li>You will be disqualified if you are asking someone or any kind of communication (verbal or nonverbal) except with your teammate.</li><li>Internet can be used during the event to search. But you are not allowed to use any social media sites during the event.</li><li>Any kind of unusual behaviour leads to your disqualification.</li></ul><br><br><strong>IMPORTANT: Under any circumstances, the decision taken by the coordinators of the event will be considered as the final decision. </strong>]]></string>
+    <string name="i.DecipherContactName1">Hitesh Goyal </string>
+    <string name="i.DecipherContactPhone1">+91 8950125175</string>
+    <string name="i.DecipherContactName2">kshar Rughani</string>
+    <string name="i.DecipherContactPhone2"> +91 8866331809</string>
+    <string name="i.DecipherSchedule">Date : 9th October 2019\nTime : 08:00 P.M\nVenue : Lab 004, Lab 005 and Lab 007</string>
+
+    <!-- i.Web -->
+    <string name="i.WebTitle">i.Web</string>
+    <string name="i.WebQuote">"\"Everybody has a creative potential and from the moment you can express this creative potential, you can start changing the world. - Paulo Coelho"</string>
+    <string name="i.WebDescription"><![CDATA[i.Web invites those who have innovative ideas, passion for designing and building, and a wish to make these ideas into a reality. We present to you an opportunity to collaborate with fellow coders, developers, innovators, designers, creators and budding entrepreneurs who share your enthusiasm for tech. This is your chance to make a team, collaborate and turn your craziest ideas into a real product. We encourage all kinds of ideas related to themes, whether it is a blueprint, looks like/works like prototype, or a complete product, a step away from being launched.]]></string>
+    <string name="i.WebRules"><![CDATA[The competition consists of the following three stages : <ul><li>Registration</li><li>Online Submission</li><li>Presentations</li></ul><p>Rules :</p><ul><li>Team will be eligible for prizes if and only if all team members have their respective i.Fest registration ids or college fever ticket number.</li><li>Registration within the given deadline is mandatory.</li><li>To participate, you must be part of a team with a minimum 2 members and a maximum of 5 members.</li></ul><br><br>The Themes For i.Web Are :<br><br> <strong>Family Tree hack:</strong> Use your creativity to build a website to make family trees and merge trees of related people on finding similar nodes of same family. Visualizing graphs using photos will be a plus here.<br><br> <strong>ML hack:</strong> Use machine learning and data science to create a hack to solve real-life problems.<br><br> <strong>Educational hack:</strong> Develop a website to improve learning and solve current problems faced by the student community, teachers or educationists by making a hack.<br><br> <strong>Cyber hack:</strong> Use your creativity to develop something that keeps the user away from viral websites.<br><br> <strong>Disaster relief hack:</strong> Build a website to reduce the aftermath of natural disasters. You can also create something related to detection of natural calamity. Push your boundaries and think of web solutions for victims of natural calamities. <br><br> <strong>Medical hack:</strong> Technology has no limits. It can be used to solve numerous healthcare problems, hospital scandals, quacks performing surgeries, increasing the death rate, healthy lifestyle issues, hypertension and obesity issues etc. Think beyond and make a hack or website to tackle some real-life issues related to medicine.<br><br><strong>NOTE:</strong> Extra marks will be awarded for submissions in Family Tree hack theme.<br><br> If you wish to register for the event, please fill this form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfWcKBFEpX8V6_dAHR86hu9Ka_X76cHJlkXz0n9kFCMwi3XOw/viewform?usp=sf_link">https://docs.google.com/forms/d/e/1FAIpQLSfWcKBFEpX8V6_dAHR86hu9Ka_X76cHJlkXz0n9kFCMwi3XOw/viewform?usp=sf_link</a>]]></string>
+    <string name="i.WebContactName1">Vrushti</string>
+    <string name="i.WebContactPhone1">+91 6354543702</string>
+    <string name="i.WebContactName2">Harshil </string>
+    <string name="i.WebContactPhone2">+91 9714052255</string>
+    <string name="i.WebSchedule">● Date-13th October 2019 \n● Venue-CEP Conference Room \n● Time : 06:00 P.M .</string>
+
+
+    <!-- i.Ganith -->
+    <string name="i.GanithTitle">i.Ganith</string>
+    <string name="i.GanithQuote">""</string>
+    <string name="i.GanithDescription"><![CDATA[” Pure mathematics is, in its way, the poetry of logical ideas”. For Math enthusiasts who can outwit anyone with their skills, this is the perfect platform for you. Do you have the potential to survive our ‘ Snap ’ or you too will be perished like ‘ Thanos’? Come show us your ingenuity . Are you the one in 14,000,605 . We dare you to defend and conquer our mathematical world , like ‘The Avengers’.]]></string>
+    <string name="i.GanithRules"><![CDATA[General rules and regulation :<ul><li>Each participant has to take part in pairs.</li><li>Plagiarism is strictly prohibited.</li><li>Final Decision, under any circumstances, will lie in hand of co-ordinators.</li></ul><p><b>Round - 1 : Math Maniac </b></p><ul><li>This round is basically General Qualification round.</li><li>Each team will be given a question paper and a pen.</li><li>Mostly objective type questions will be asked, some of them can be blanks or matching type. No negative markings on wrong answer.</li><li>Rough sheet will be given for calculations.</li><li>There will be 31 questions in this round for which participants will get 1 hour.</li><li>Top 32 teams will be qualified for the next round.</li></ul><p><b>Round 2-A : The Snap </b></p><ul><li>In this round both team members will be seated separately and will be given the same set of question.</li><li>The team will be awarded Full marks only when both the teammates give the correct answer.</li><li>No marks will be awarded if any one of teammates chooses the incorrect option.</li><li>However partial marking will be given only if one of them has given correct answer and the other has left it Unanswered.</li><li>There will be 15 questions for which 30 minutes will be given.</li><li>top 12 team will be qualified for the final round.</li></ul><p><b>Round 2-B : Bidding Wars </b></p><ul><li>It is an ‘Auction round’. All teams will be given a certain fixed amount of virtual money to bid in the auction.</li><li>There will be 10 questions in total, each will be having a certain number of points, which may vary according to its difficulty.</li><li>Each question has some reward points based on difficulty.</li><li>Team which has highest reward points at the end will win.</li><li>In the beginning of the round there will 12 questions shown on the screen one by one. Each question will be shown for 25 seconds.</li><li>The bid will start from a minimum allotted amount. If the team thinks they are sure to solve this question they can bid on that question.</li><li>After all the questions are auctioned the highest bidder will Allow to solve that question in about 120 seconds.If the highest bidder fails to answer the question will be passed to next highest bidder.The bidder won’t be allow to exceed the bid limit.</li></ul>]]></string>
+    <string name="i.GanithContactName1">Dhruv</string>
+    <string name="i.GanithContactPhone1">+91 6353550257</string>
+    <string name="i.GanithContactName2">Sudarshan</string>
+    <string name="i.GanithContactPhone2">+91 7984147708</string>
+    <string name="i.GanithSchedule">"<b>"Phase-1"</b>"\nDate: 11th October 2019\nTime: 9:00 P.M\nVenue: Lt-3\n\n"<b>"Phase-2 abd Phase-3"</b>"\nDate: 12th October 2018\nTime: 9:00 P.M\nVenue: CEP-108</string>
+
+
+    <!-- BlindC -->
+    <string name="BlindCTitle">Blind C</string>
+    <string name="BlindCQuote">" Give a man a program, frustrate him for a day.<br></br> Teach a man to program, frustrate him for a lifetime. - Muhammad Waseem"</string>
+    <string name="BlindCDescription"><![CDATA[Are you confident enough in your programming skills then let's test your skills when you are blindfolded [well not really, you will be screen blind i.e your monitor will be off]]]></string>
+    <string name="BlindCRules"><![CDATA["Blind C" comprises of 2 different sections (i.e. beginner and intermediate).<ul><li>Only the first yearites can participate in the beginner section while all the other college students are eligible for the intermediate section.</li><li>The duration of the event will be around 2-2.5 hrs.</li><li>Each section will have 2 rounds in increasing order of difficulty and each round will have a single question.</li><li>The format of the event is simple. Each participant will be told a question which he needs to code with the monitor switched off.</li><li>There will be penalties for incorrect solutions.</li><li>The contest will be hosted on hackerrank/hackerearth and an individual can code only in C language.</li><li>In case of any discrepancy the decision of the coordinators will be final.</li></ul>]]></string>
+    <string name="BlindCContactName1">Jayesh Popat</string>
+    <string name="BlindCContactPhone1">+91 9974454709</string>
+    <string name="BlindCContactName2">Mahaksh Trivedi</string>
+    <string name="BlindCContactPhone2">+91 7874276874</string>
+    <string name="BlindCSchedule">Date: 13th October 2019\nTime:  02:30 P.M \nVenue: Lab 004, Lab 005 and Lab 007 </string>
+
+
+    <!-- TreasureHunt -->
+    <string name="TreasureHuntTitle">Treasure Hunt</string>
+    <string name="TreasureHuntQuote">""</string>
+    <string name="TreasureHuntDescription"><![CDATA[<strong>Theme : Through the Cosmos</strong><br><br> With the advent of advanced space research and development, humans have been able to reach vast distances across the cosmos, in Treasure hunt come and challenge your wit and intellect, get ready to hop on to your space-crafts and experience your odyssey across the cosmos (DA-IICT).<br> The first one to complete their journey wins, and collect exciting prizes .]]></string>
+    <string name="TreasureHuntRules"><![CDATA[<ul><li>Duration will be of 2 hrs.</li><li>Registration will end 4 hrs before the event.</li><li>Registrations will be done at the canteen area.</li><li>Event will start at OAT and after the final clue all the team members along with all clues have to gather at OAT.</li><li>All clues will be inside the campus only.</li><li>Places excluded are both HoRs, SAC-1, CEP Top, Basketball court and Faculty block.</li><li>At the sites you will be asked a question related to space if you cannot answer the question then you will have to do a task (no googling of questions allowed at the venue).</li><li>Also the teams will be given a map of our campus so that they do not get confused with the places. (The map will consist of allowed places in our campus)</li></ul>]]></string>
+    <string name="TreasureHuntContactName1">Parth Bhoi</string>
+    <string name="TreasureHuntContactPhone1">+91 9099159225</string>
+    <string name="TreasureHuntContactName2">Parthiv Patel</string>
+    <string name="TreasureHuntContactPhone2">+91 6354004102</string>
+    <string name="TreasureHuntSchedule">●Date : 12th October 2019 \n●Time : 04:30 P.M\n●Venue : OAT</string>
+
+    <!-- i.Papyrus -->
+    <string name="i.PapyrusTitle">"i.Papyrus"</string>
+    <string name="i.PapyrusQuote">""</string>
+    <string name="i.PapyrusDescription"><![CDATA[An open to all interactive series of talks by distinguished professionals from fields which are currently seeing exciting and heavy research. The talks will cover a wide range of areas such as artificial intelligence, astrophysics, health care,etc. The talks will enable you to go over and above your college curriculum and broaden your fields of knowledge by providing insights in the exciting research done by these professionals.]]></string>
+    <string name="i.PapyrusRules"><![CDATA[<b>The event will be open to all.</b>]]></string>
+    <string name="i.PapyrusContactName1">Abhi Zanzurukiya </string>
+    <string name="i.PapyrusContactPhone1">+91 8758719777</string>
+    <string name="i.PapyrusContactName2">Maitreya</string>
+    <string name="i.PapyrusContactPhone2">+91 9737977701</string>
+    <string name="i.PapyrusSchedule">●Date : 7th October 2018\n●Time : 10:00 A.M\n●Venue : CEP Corridor </string>
+
+    <!-- RoboClash -->
+    <string name="RoboClashTitle">"RoboClash"</string>
+    <string name="RoboClashQuote">"Beware machines gonna kill "not you chill", machine gonna fight, machine gonna win, and rule the ring. May your machine be the king."</string>
+    <string name="RoboClashDescription"><![CDATA[Hunt or be hunted. Kill or be killed. Conquer or be conquered. <br><br> RoboClash is a deadly combat between the metal minds of your self-made robots, which will rattle and battle in the cages till either your robot or the opponent's robot immobilizes. An event that tests the creativity of your destructive minds, this war will require a combat-worthy use of your engineering skills. Prove your robot's invincibility by participating in a battle of the bots. <br><br> Participants will pit their robots against each other in an arena, and the fight will continue until one robot overtakes or overthrows another from the ring. There may be some surprise fun events and more surprising stuff waiting for your bot in the cage. One of the most significant events of i.Fest, there are exciting prizes for the ultimate winner, the eventual champion. The Cage of Destruction awaits.]]></string>
+    <string name="RoboClashRules"><![CDATA[<strong>Team Specification : </strong>A team may consist of a maximum of 4 participants, all from the same different institute.<br><br><strong>General Rules : </strong>The competition will be played consisting of 2 players at a time , The maximum duration of each round will be 5 minutes.<ul><li>The robot would be checked for its safety before the competition and would be discarded if found unsafe for other participants and spectators.</li><li>Judges decision shall be treated as final and binding on all.</li><li>The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any will be highlighted on the website and notified to the registered teams.</li><li>Violation of any the above rules will lead to disqualification.</li></ul><p><strong>Criteria for Triumph : </strong></p><ul><li>A robot is declared victorious if its opponent is immobilized or out of the arena.</li><li>A robot will be declared immobile if it cannot display linear motion of at least one inch in a timed period of 30 seconds.A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement.</li><li>If both robots survive the five minutes at that point, the robot with the higher hit points wins.</li></ul><p><strong>Safety Rules : </strong></p><ul><li>Compliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing.</li><li>If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguousor borderline, please contact the event organizers.</li><li>All weapons must have a safety cover on any sharp edges.</li></ul><p><strong>Problem statement : </strong>Design and construct a remote or wired controlled robot capable of fighting a one on one tournament.</p><p><strong>Dimensions and Fabrications : </strong></p><ul><li>The bot should fit in a box of dimension 1.7ft * 1.7ft * 1.7ft (l x b x h) with all mechanisms fully executing motions. Length and width is measured to the extremities of the Robot, i.e. includes any overhanging bodywork, weaponry or protrusions. The external device used to control the bot is not included in the size constraint.</li></ul><p><strong>Mobility : </strong>All bots must have easily visible and controlled mobility in order to compete. Methods of mobility include :</p><ul><li>Rolling (wheels, tracks or the whole robot).</li><li>Jumping and hopping is allowed to an extent of 1/2ft.</li><li>Flying (using airfoil, helium balloons, ornithopters, etc.) is not allowed.</li></ul><p><strong>Robot Control Requirements : </strong></p><ul><li>If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to direct disqualification even before the event.</li><li>If the bot is controlled wirelessly, the bot must at least have a four frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results.</li><li>Remote control systems from toys might be used. Remote control systems available in the market may also be used.</li></ul><p><strong>Battery and Power : </strong></p><ul><li>The machine can be powered electrically only. Batteries must be sealed, immobilized electrolyte types (such as Li-ion, NiCd,NiMH or dry cells).</li><li>Working voltages must not exceed 24V DC (mean voltage) at any point of time.</li><li>All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut.</li><li>All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause direct disqualification.</li><li>Battery Eliminators are allowed and power source would be available at the venue for the eliminators. Motors: The robot should move as fast as possible around the arena with the help of motors.</li><li>DC motors and stepper motors (12V-24V) can be used as per the design of bots.</li></ul>]]></string>
+    <string name="RoboClashContactName1">Rahul</string>
+    <string name="RoboClashContactPhone1">+91 6355570886</string>
+    <string name="RoboClashContactName2">Bhagyesh</string>
+    <string name="RoboClashContactPhone2">+91 8866223465</string>
+    <string name="RoboClashSchedule">●Venue : Outside Cafeteria\n●Time : 09:00 P.M\n●Date : 12th October 2019</string>
+
+    <!-- IoTAuction -->
+    <string name="IoTAuctionTitle">"IoTAuction"</string>
+    <string name="IoTAuctionQuote">""</string>
+    <string name="IoTAuctionDescription"><![CDATA[Participate in IoT Auction to bring out the technocrat in you. Participants bid in a virtual auction to lay their hands on the components they need to bring their idea to life. The main task is to make an electronic system from these components in stipulated time. Think...Design...Innovate...!!!]]></string>
+    <string name="IoTAuctionRules"><![CDATA[<b>Rules : </b><br><br><ul><li>Team Size Allowed: 3 to 5</li><li>Each team will be given a certain fixed amount of fake currency which will be used to bid for various components.</li><li>Once a component is bought, it cannot be exchanged.</li><li>You will have 3 hours to build and complete your circuits.</li><li>The circuits will be judged on various criteria like innovation, implementation and working.</li><li>The decision of the judges and the coordinators will be final in matters of dispute.</li></ul>]]></string>
+    <string name="IoTAuctionContactName1">Anirudh Iyengar</string>
+    <string name="IoTAuctionContactPhone1">+91 635486105</string>
+    <string name="IoTAuctionContactName2">Aayush Desai</string>
+    <string name="IoTAuctionContactPhone2">+91 9427761170</string>
+    <string name="IoTAuctionSchedule">●Venue : CEP 106\n●Time : 10:00 A.M\n●Date : 13th October 2019</string>
+
+    <!-- TicTechToe -->
+    <string name="TicTechToeTitle">TicTechToe</string>
+    <string name="TicTechToeQuote">""</string>
+    <string name="TicTechToeDescription"><![CDATA[The Women in Engineering Affinity Group of IEEE Student Branch of Dhirubhai Ambani Institute of Information and CommunicationTechnology (DA-IICT) along with Women in Entrepreneurship of DA-IICT Centre of Entrepreneurship and Incubation (DCEI) have a mission to inspire and empower all the budding engineers, especially the women tech makers. With this vision, we are proud to present to you our annual national hackathon, <b>Tic-Tech-Toe’18​!</b><br><br>Tic-Tech-Toe’18 is a 30-hour Hackathon where programmers, developers and designers from all over India will come together and spur innovations. It is an event filled with immense opportunities to learn new technologies, code, develop stupendous products and make new friends all within a span of 30 hours! Also this year’s hackathon is during our annual technical fest,i.Fest’18!]]></string>
+    <string name="TicTechToeRules"><![CDATA[<ul><li>Time Limit 30 hours</li><li>Team Size : 3 - 5</li><li>Each team must have at least one female member.</li><li>Team will build a mobile/web product on a theme based problem statement provided to them during the Hackathon</li></ul><p>[Accommodation, light refreshments and registration kit will be taken care by us]</p><p>Register here:​ <a href="https://goo.gl/forms/XMmNKvnx8lF0CZzu1">https://goo.gl/forms/XMmNKvnx8lF0CZzu1</a></p>​]]></string>
+    <string name="TicTechToeContactName1">Meet Shah</string>
+    <string name="TicTechToeContactPhone1">+91 8160714367</string>
+    <string name="TicTechToeContactName2">Amey Ghate</string>
+    <string name="TicTechToeContactPhone2">+91 7490011850</string>
+    <string name="TicTechToeSchedule">●Date : 5-7 October, 2018\n●Time : 11:00 A.M\n●Venue : DA-IICT, Gandhinagar</string>
+</resources>

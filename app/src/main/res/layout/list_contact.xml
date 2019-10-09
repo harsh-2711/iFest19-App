@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="5"
+    android:paddingTop="5dp"
+    android:id="@+id/contactLayout">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name"
+            android:padding="4dp"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:text="Name" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_department"
+            android:padding="4dp"
+            android:textSize="14dp"
+            android:text="Department"
+            android:visibility="gone"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_phone"
+            android:padding="4dp"
+            android:textSize="14dp"
+            android:text="Phone"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:layout_alignParentRight="true"
+        android:id="@+id/icon_phone"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="15dp"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/call"
+        android:layout_gravity="right|center" />
+
+    </RelativeLayout>
+
+</LinearLayout>
